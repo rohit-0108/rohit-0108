@@ -8,6 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-0108&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-0108" /> </p>
 
 - 📫 How to reach me **rohitkolekar0108@gmail.com**
+- My Portfolio : https://rohit-0108.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/rohit-kolekar-82a94b226
 
 - ⚡ Fun fact ** I am funny**
 
