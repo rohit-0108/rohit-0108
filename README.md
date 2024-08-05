@@ -1,4 +1,4 @@
-![logo](https://github.com/rohit-0108/rohit-0108/blob/main/GithubBanner.png)
+<!--![logo](https://github.com/rohit-0108/rohit-0108/blob/main/GithubBanner.png)-->
 <h1 align="center">Hi 👋 , I'm Rohit Kolekar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
